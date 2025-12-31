@@ -8,14 +8,14 @@ I work extensively with **Django, FastAPI, Django REST Framework (DRF), Next.js,
 - 🚀 Senior Python Full-Stack Engineer  
 - 🏗️ Backend Architecture | REST APIs | Scalable Systems  
 - 🔧 Django | FastAPI | DRF | Next.js | AWS  
-- 💡 Strong advocate of clean code, best practices, and maintainable systems  
-- 📈 Continuously learning and evolving with modern technologies  
+- 💡 Clean code, best practices, maintainable systems  
+- 📈 Continuous learning & improvement  
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-babu-51740916a/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaybabu0046@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-babu-51740916a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaybabu0046@gmail.com)
 
 ---
 
@@ -25,7 +25,7 @@ I work extensively with **Django, FastAPI, Django REST Framework (DRF), Next.js,
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ### 🎨 Frontend
@@ -34,7 +34,7 @@ I work extensively with **Django, FastAPI, Django REST Framework (DRF), Next.js,
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
 
 ### 🗄️ Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,9 +62,9 @@ I work extensively with **Django, FastAPI, Django REST Framework (DRF), Next.js,
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay0023130&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ajay0023130&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay0023130&theme=dark&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay0023130&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ajay0023130&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay0023130&layout=compact&theme=dark)
 
 ---
 
@@ -76,11 +76,8 @@ I work extensively with **Django, FastAPI, Django REST Framework (DRF), Next.js,
 - Strengthening expertise in **system design, cloud infrastructure, and DevOps practices**  
 - Preparing for **Senior / Lead Backend & Full-Stack roles**
 
-
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ajay0023130&icon=0&color=0)
+⭐ If you like my work, feel free to star my repositories and connect with me!
 
----
-
-⭐️ *If you like my work, feel free to star my repositories and connect with me!*
+![Profile Views](https://komarev.com/ghpvc/?username=ajay0023130&color=blue)
