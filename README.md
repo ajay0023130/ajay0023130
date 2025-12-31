@@ -62,9 +62,18 @@ I work extensively with **Django, FastAPI, Django REST Framework (DRF), Next.js,
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay0023130&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=ajay0023130&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay0023130&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajay0023130&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajay0023130&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay0023130&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 
 ---
 
